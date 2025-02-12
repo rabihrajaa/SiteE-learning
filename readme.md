@@ -1,6 +1,3 @@
-Voici une version détaillée et bien organisée du fichier README avec les liens des images stockées dans `storage/images/`. Je vais le structurer en deux grandes parties : **Conception** et **Interfaces de l'application**.  
-
----
 
 # 📚 **Projet E-Learning - Documentation**
 
