@@ -78,14 +78,9 @@ Le site web comprend **dix modules** accessibles via un menu :
 
 ## 🛠 **2.2. Interfaces de l’espace Administrateur**  
 
-### 🏠 **Interface principale**  
-![Interface admin](storage/interface_admin.png)  
-
 ### 👤 **Gestion des utilisateurs**  
 - **Liste des utilisateurs**  
-  ![Liste utilisateurs](storage/liste_utilisateurs.png)  
-- **Détails des utilisateurs**  
-  ![Détails utilisateurs](storage/details_utilisateurs.png)  
+  ![Liste utilisateurs](storage/liste_utilisateurs.png)   
 
 ### 📂 **Gestion des catégories, niveaux, cours et séquences**  
 - **Catégories**  
@@ -93,15 +88,19 @@ Le site web comprend **dix modules** accessibles via un menu :
 - **Niveaux**  
   ![Gestion niveaux](storage/gestion_niveaux.png)  
 - **Cours**  
-  ![Gestion cours](storage/gestion_cours.png)  
+  ![Gestion cours](storage/gestion_cours.png)
+  ![Gestion cours](storage/gestion_cours2.png)
 - **Séquences**  
-  ![Gestion séquences](storage/gestion_sequences.png)  
+  ![Gestion séquences](storage/gestion_sequences.png)
+   ![Gestion séquences](storage/gestion_sequences2.png)
 
 ### 📚 **Gestion des ressources et des messages**  
 - **Ressources**  
-  ![Gestion ressources](storage/gestion_ressources.png)  
+  ![Gestion ressources](storage/gestion_ressources.png)
+  ![Gestion ressources](storage/gestion_ressources2.png) 
 - **Messages**  
-  ![Gestion messages](storage/gestion_messages.png)  
+  ![Gestion messages](storage/gestion_messages.png)
+  ![Gestion messages](storage/gestion_messages2.png) 
 
 ---
 
