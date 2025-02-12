@@ -39,13 +39,15 @@ Le site web comprend **dix modules** accessibles via un menu :
   ![Contact](storage/diagramme_contact.png)  
 
 ### 🔄 **Diagramme d’état-transition**  
-![Diagramme état-transition](storage/diagramme_etat_transition.png)  
+![Diagramme état-transition](storage/diagramme_etat_transition1.png)  
+![Diagramme état-transition](storage/diagramme_etat_transition2.png) 
+![Diagramme état-transition](storage/diagramme_etat_transition3.png) 
 
 ### 🎯 **Diagrammes d’Activité**  
 - **Inscription**  
-  ![Inscription](storage/diagramme_activite_inscription.png)  
+  ![Inscription](storage/diagramme_activite_inscription.png)
 - **Authentification**  
-  ![Authentification](storage/diagramme_activite_authentification.png)  
+  ![Authentification](storage/diagramme_activite_authentification.png)
 - **Consulter un cours**  
   ![Consulter un cours](storage/diagramme_activite_consulter_cours.png)  
 - **Ajouter un cours**  
@@ -68,19 +70,9 @@ Le site web comprend **dix modules** accessibles via un menu :
 - **Niveaux**  
   ![Niveaux](storage/consulter_niveaux.png)  
 - **Cours**  
-  ![Cours](storage/consulter_cours.png)  
-
-### 📖 **Profil de l’apprenant**  
-![Profil](storage/profil_apprenant.png)  
-
-### ✉️ **Contact**  
-![Contact](storage/contact.png)  
-
-### 🔐 **Mot de passe oublié et inscription**  
-- **Mot de passe oublié**  
-  ![Mot de passe oublié](storage/mot_de_passe_oublie.png)  
-- **Inscription**  
-  ![Inscription](storage/inscription.png)  
+  ![Cours](storage/consulter_cours.png)
+  ![Cours](storage/consulter_cours2.png)
+  ![Cours](storage/consulter_cours3.png)
 
 ---
 
